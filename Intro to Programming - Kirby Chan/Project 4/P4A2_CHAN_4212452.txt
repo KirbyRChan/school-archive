@@ -1,0 +1,10 @@
+ghost
+sun
+cow
+banana
+book
+apple
+ocean
+kite
+dog
+pet

@@ -1,0 +1,10 @@
+ghost,scary
+sun,light
+cow,milk
+banana,monkey
+book,library
+apple,fruit
+ocean,water
+kite,wind
+dog,pet
+cookie,snack
